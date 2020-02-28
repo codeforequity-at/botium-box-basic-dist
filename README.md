@@ -90,6 +90,8 @@ In the file _kubernetes/02-configmap.yml_, enter your MySQL connection informati
 In the file _kubernetes/02-configmap.yml_, enter the **contents** of the license key file your received:
 * {{ my-botium-box-license-key }}
 
+**IMPORTANT: the double curly brackets are part of the placeholders, so be sure to remove them!**
+
 ### Deploy to Kubernetes
 
 	> kubectl apply -f ./kubernetes
