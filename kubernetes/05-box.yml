@@ -36,7 +36,7 @@ spec:
     spec:
       containers:
         - name: box
-          image: botium/botium-box-ce:2.3.0
+          image: botium/botium-box-ce:2.4.0
           ports:
             - name: box-4000
               containerPort: 4000

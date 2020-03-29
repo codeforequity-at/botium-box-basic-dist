@@ -42,7 +42,7 @@ Just click on the _Clone or download_ button above and use _Download ZIP_, unpac
 
 ## Getting Community Edition License
 
-Point your browser to https://registration.botiumbox.com to register and apply for a community license. You will receive it by email, click the _Download License Key_ button to get your license file named _license.key_, which contains a license key valid forever.
+Point your browser to https://registration.botiumbox.com to register and apply for a community license. You will receive it as email attachment named _license.key_.
 
 ## Botium Box Installation with AWS CloudFormation
 
