@@ -1,10 +1,10 @@
 [
     {
-        "name": "PhantomJS Virtual Browser",
+        "name": "Headless Chrome",
         "value": {
             "type": "DESKTOP",
             "capabilities": {
-                "browserName": "phantomjs"
+                "browserName": "chrome"
             }
         }
     }  
