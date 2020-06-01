@@ -9,7 +9,6 @@ services:
       BOTIUMBOX_QUEUE_REDISURL: redis://redis:6379
       BOTIUMBOX_AGENT_NAME: Botium Agent 1
       DEBUG: botium*
-      TESTSETDIR_PUBLIC: ./testsets
     depends_on:
       - redis
       - prisma
