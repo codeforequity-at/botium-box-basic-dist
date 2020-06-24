@@ -1,7 +1,7 @@
 version: '2'
 services:
   web:
-    image: botium/botium-box-ce:2.5.0
+    image: botium/botium-box-ce:2.6.0
     ports:
      - "4000:4000"
     environment:
@@ -9,7 +9,6 @@ services:
       BOTIUMBOX_QUEUE_REDISURL: redis://redis:6379
       BOTIUMBOX_AGENT_NAME: Botium Agent 1
       DEBUG: botium*
-      TESTSETDIR_PUBLIC: ./testsets
     depends_on:
       - redis
       - prisma

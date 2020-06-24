@@ -1,2 +1,3 @@
+resources/license.key
 kubernetes/02-configmap.yml
 mysql
