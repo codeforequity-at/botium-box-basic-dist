@@ -1,6 +1,10 @@
-# Botium Box - Community Edition
+# Botium Box - Community Edition [DEPRECATED]
 
 ![Docker Pulls](https://img.shields.io/docker/pulls/botium/botium-box-ce)
+
+**UPDATE 2020/10/23: DEPRECATED**
+
+As of 2020/10/23 the community version is fully deprecated. No panic, we offer a much better alternative. Check out the [Botium Box Mini](https://www.botium.ai/free-trial/)!
 
 **UPDATE 2020/06/15:** As Chatbots grow in importance, automated testing solutions will remain critical for ensuring that Chatbots actually do what their designers intend. We've been busy working on a product that allows testers to have visual insights and deeper understanding in their Chatbot's performance, offering several solutions to boost their interaction!
 [Botium Coach will be introduced to the market as part of our online event on the 24th of June.](https://www.botium.ai/coach/)
